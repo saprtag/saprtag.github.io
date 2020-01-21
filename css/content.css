@@ -29,7 +29,7 @@
   background: url(https://www.shareicon.net/data/2015/10/04/111741_vk_512x512.png);
   background-size: 200px;
   text-decoration: none;
-  transition: 0.5s 0.5s;
+  transition: 0.5s 0.2s;
 }
 .content__logo {
 
