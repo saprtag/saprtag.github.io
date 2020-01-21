@@ -1,0 +1,13 @@
+body{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url(https://img3.akspic.ru/image/26147-kosmos-cifrovoe_iskusstvo-temnota-graficeskij_dizajn-atmosfera-1920x1080.jpg);
+  background-repeat: no-repeat;
+  background-position-x: 50%;
+  overflow: hidden;
+  height: 100vh;
+  width: 100%;
+}

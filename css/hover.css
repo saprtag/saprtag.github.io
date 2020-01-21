@@ -1,0 +1,3 @@
+.content__link:hover{
+  transform: rotate(-360deg);
+}
