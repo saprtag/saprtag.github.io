@@ -1,9 +1,6 @@
 .buttons {
-  /* background-color: #c0ca33; */
   margin: 0;
   width: 330px;
-
-
 }
 
 .buttons__item {
@@ -12,7 +9,7 @@
   height: 100px;
   width: 100px;
   justify-content: space-around;
-
+  background: url(https://raw.githubusercontent.com/saprtag/home1/master/1491579602-yumminkysocialmedia36_83067.png);
 }
 
 .buttons__btn {
@@ -21,13 +18,18 @@
   border: none;
   outline: none;
   animation: text_color 5s infinite ease-in-out;
-  transition: 0.5s 0.2s;
-  background: url(https://psv4.userapi.com/c856232/u411723168/docs/d12/f888201ca0e0/62928-salon-computer-instagram-icons-icone-vector-graphics.png?extra=E-AYxlJ9LooFgE8-WXXh5bXDgRfKPfF5Uytyk0S2oOdM9EgqTaXcjqZEZpXHb7jtJApgjjvRtGzWrBHzeiU4cfDYIVUrKjpo_9-rRMResIXnHlesAGVwUAMrilsGwAXXxxYSpA2kYS2ox1WHHMZyubzTCw);
-
+  transition: 0.5s 0.5s;
+  background: none;
+  background-size: 100px;
 }
 .buttons__item_active {
   margin-top: 20px;
-  background: url(https://psv4.userapi.com/c856232/u411723168/docs/d12/f888201ca0e0/62928-salon-computer-instagram-icons-icone-vector-graphics.png?extra=E-AYxlJ9LooFgE8-WXXh5bXDgRfKPfF5Uytyk0S2oOdM9EgqTaXcjqZEZpXHb7jtJApgjjvRtGzWrBHzeiU4cfDYIVUrKjpo_9-rRMResIXnHlesAGVwUAMrilsGwAXXxxYSpA2kYS2ox1WHHMZyubzTCw);
   background-size: 100px;
-  transition: 0.5s 0.2s;
+  transition: 0.5s 0.5s;
+  }
+  .inst__link{
+    background: url(https://www.shareicon.net/data/2015/10/04/111741_vk_512x512.png);
+    border-radius: 100px;
+    background-size: 100px;
+    transition: 0.5s 0.5s;
   }
